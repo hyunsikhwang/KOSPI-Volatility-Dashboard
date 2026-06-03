@@ -1,5 +1,5 @@
 {
   "name": "KOSPI Volatility & Returns Analyzer",
-  "description": "Visualizes KOSPI historical performance, daily volatility, and yearly returns from 2007 to 2026, replicating the logic of FinanceDataReader analysis.",
+  "description": "Visualizes KOSPI historical performance, daily volatility, and yearly returns from 1990 to 2026, replicating the logic of FinanceDataReader analysis.",
   "requestFramePermissions": []
 }

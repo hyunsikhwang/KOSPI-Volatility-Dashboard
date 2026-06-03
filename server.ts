@@ -35,7 +35,7 @@ async function startServer() {
     try {
       const query = '^KS11';
       // Use a Date object for period1
-      const period1 = new Date('2007-01-01');
+      const period1 = new Date('1990-01-01');
       
       console.log(`Fetching KOSPI data for ${query} since ${period1.toISOString()}...`);
       
